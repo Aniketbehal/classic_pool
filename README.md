@@ -16,6 +16,7 @@ Keys:
 * Left click : shoot.
 * Aim by moving the mouse.
 <br>Demo:</br>
+https://aniketbehal.github.io/classic_pool/
 <br>Screenshots:</br>
 ![image](https://user-images.githubusercontent.com/83498875/131133988-415e9d0c-0d37-4e27-ac81-a9c1fc13247e.png)
 
